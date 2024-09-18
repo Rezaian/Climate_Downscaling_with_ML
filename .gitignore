@@ -1,0 +1,13 @@
+# .gitignore
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Data files
+data/
+models/
+
+# Environment files
+env/
+.venv/
